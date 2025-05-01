@@ -56,7 +56,7 @@ The project is structured as a Python package with the following components:
    pip install .
    ```
 
-3. **Running the Scraper**:
+3. **Running the scraper, data fetching and cleaning**:
 
    To scrape data, simply run:
 
