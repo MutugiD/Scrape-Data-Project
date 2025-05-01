@@ -49,7 +49,7 @@ The project is structured as a Python package with the following components:
 
    ```bash
    python -m venv gomans
-   source venv/bin/activate
+   source gomans/bin/activate
    #Windows
    .\gomans\Scripts\activate
    # use setup.py
